@@ -1,6 +1,8 @@
 # fruit-identification
 
 Research question:
+
+
 Image classification problem has been one of the hottest topics in Artificial Intelligence. Since
 humanity entered the 21st century, the development of technology including the internet, improvement of
 physical cameras and data storage technology, caused the data size of images to grow rapidly. In order to
@@ -12,6 +14,8 @@ solve image classification problems. In the same time, I also developed other mo
 problems and I compared their performance with CNN.
 
 Project deployment:
+
+
 I wrote my project on colab, if you find route problem, please try to upload it on colab and run.
 
 Data set:
